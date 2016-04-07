@@ -1,0 +1,4 @@
+com\mydomian\service\RestClass.class
+com\mydomian\service\Users.class
+com\mydomian\service\HibernateUtil.class
+com\mydomian\service\UsersService.class
